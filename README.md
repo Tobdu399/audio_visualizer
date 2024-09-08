@@ -1,6 +1,8 @@
 # Audio Visualizer
 
-![](.github/example.mp4)
+![](.github/example.png)
+
+(There is also an example video in the `.github` folder)
 
 ## Installation
 
