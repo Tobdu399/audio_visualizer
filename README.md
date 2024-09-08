@@ -42,7 +42,7 @@ To compile Audio Visualizer, you will need these libraries to be installed on yo
 |---|---|
 | SDL2 | sudo apt install libsdl2-dev |
 | SDL2_ttf | sudo apt install libsdl2-ttf-dev |
-| FFTW3 | udo apt install libfftw3-dev |
+| FFTW3 | sudo apt install libfftw3-dev |
 
 In the `lib/main.h` file you can edit the input and output devices and the window resolution. If the program crashes unexpectedly, setting the output device manually can help. After modifying this file run `make clean`. Otherwise the changes won't take effect.
 
